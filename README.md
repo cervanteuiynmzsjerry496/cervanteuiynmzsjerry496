@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm cervanteuiynmzsjerry496
 
-<!--
-**cervanteuiynmzsjerry496/cervanteuiynmzsjerry496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎰 🎮 Looking to contribute to natural language processing 🎰 🎮
 
-Here are some ideas to get you started:
+## About Me
+🥋 🎷 🛼 Enthusiastic about natural language processing 🥋 🎷 🛼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥊 🎽 🏓 🚵 A programmer in data science 🥊 🎽 🏓 🚵
+
+### Fun Facts
+🎺 🚀 Building the future with robotics 🎺 🚀
+
+---
+🚴 🛼 🎰 🛹 🏑 Thanks for visiting my profile! 🎾 🎬 🏓 🥋 🏹
